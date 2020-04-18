@@ -1,0 +1,27 @@
+{
+  "name": "introducion-package-node-type",
+  "version": "1.0.0",
+  "description": "primer paquete usando node y typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "tsc -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gaetano1979/introducion-node-ts.git"
+  },
+  "keywords": [
+    "nodejs",
+    "ts",
+    "typescript",
+    "lib",
+    "librerias"
+  ],
+  "author": "Gaetano Sabino <gaetano@webappgs.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Gaetano1979/introducion-node-ts/issues"
+  },
+  "homepage": "https://github.com/Gaetano1979/introducion-node-ts#readme"
+}
